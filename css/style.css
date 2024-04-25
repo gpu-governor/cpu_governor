@@ -6,19 +6,24 @@ h3
 {
 	text-align: center;
    color: lightgreen;
+   font-family:"consolas","sans-serif";
 }
 p
 {
    color: white;
+   font-family:"consolas","sans-serif";
+
 }
 li {
 	color: lavender;
 	}
 	
-	h1
+	h2
 {
    color: lightgreen;
    text-align: center;
+   font-family:"consolas";
+   font-weight:bold;
 }
 .outline {
 	display: inline-block;
@@ -58,5 +63,5 @@ li {
 	display:none;
 	}
 a{
-	color: yellow;
+	color: cyan;
 	}
